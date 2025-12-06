@@ -6,7 +6,7 @@ This repository contains smart contracts and instructions for deploying a minima
 
 ## ✔ Token Addresses (ARC Testnet)
 - **USYC:**  0xe9185F0c5F296Ed1797AaE4238D26CCaBEadb86C
-- **EURC:** `0x89B50855Aa3bE2F677cD6303Cec089B5F319D72a`
+- **EURC:**  0x89B50855Aa3bE2F677cD6303Cec089B5F319D72a
 
 ---
 
